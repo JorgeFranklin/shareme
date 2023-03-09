@@ -10,7 +10,6 @@
 * <img src="https://user-images.githubusercontent.com/118635631/224173567-3ac0f7a1-4d59-4492-aa5e-060b47f75cc4.png" width="15" height="15" /> I used vite
 * <img src="https://user-images.githubusercontent.com/118635631/224174225-eacbdb9d-6ac6-46e8-a8b1-5b2de3acf602.gif" width="15" height="15" /> I changed the structure of the project.
 * <img src="https://user-images.githubusercontent.com/118635631/224175120-cd91810f-285b-4a83-bf71-9d86a1342890.png" width="15" height="15" /> I used "@react-oauth/google" instead of "react-google-login" because it was deprecated.
+* <img src="https://user-images.githubusercontent.com/118635631/224177569-86660c2e-be23-4c4a-92ff-61642d724b73.png" width="15" height="15" /> I used "phosphor" instead of "react-icons" because I thought it looked better.
 
 ### Project link: https://shareme-portfolio.netlify.app
-
-### 
